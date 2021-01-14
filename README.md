@@ -17,7 +17,7 @@ for you in the longer run, alternatively you can learn python its python have lo
 
 ### Learning Resources for Java
 
-YouTube Playlists:
+**YouTube Playlists:**
 
 [Java Tutorial For Beginners (Step by Step tutorial) - ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
 
@@ -27,7 +27,7 @@ YouTube Playlists:
 
 [Java tutorial by durga sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
 
-Websites:
+**Websites:**
 
 [Learn Java Programming - Programmiz](https://www.programiz.com/java-programming)
 
@@ -39,7 +39,7 @@ Websites:
 
 [Java CheatSheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
-Interview questions:
+**Interview questions:**
 
 [Java Interview Questions and Answers | Java Tutorial | Java Online Training | Edureka](https://www.youtube.com/watch?v=oYXivKMSEqM&ab_channel=edureka%21)
 
@@ -47,7 +47,7 @@ Interview questions:
 
 ### Learning Resources for Python
 
-Courses websites:
+**Courses websites:**
 
 [Complete-Python-3-Bootcamp github repo](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 
@@ -63,7 +63,7 @@ Courses websites:
 
 [Python Tutorial for Beginners – Learn Python Programming - DataFlair](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 
-Interview Questions:
+**Interview Questions:**
 
 [53 Interview questions and answers](https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f)
 
